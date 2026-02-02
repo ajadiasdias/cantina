@@ -1,0 +1,8 @@
+
+{
+  "name": "Cantina D'Itália - Sistema de Gestão",
+  "description": "Um sistema completo de checklist e gestão de tarefas para restaurantes, com níveis de acesso para gestores e operadores.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
